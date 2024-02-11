@@ -1,18 +1,26 @@
 class Solution:
     def isValid(self, s: str) -> bool:
-        lis = []
-        dic = {')':'(', '}':'{', ']':'['}
-
+        li = []
+        mapping = { '(': ')', '{': '}', '[': ']' }
         for i in s:
-            if i in dic:
-                if lis and lis[-1] == dic[i]:
-                    lis.pop()
-                else:
-                    return False
+            if li and i == mapping.get(li[-1]):
+                li.pop()
             else:
-                lis.append(i)
-
-        return False if lis else True
-
-
-        return True
+                li.append(i)
+                
+        print(li)
+        return not li
+            
+            
+            
+# class Solution:
+#     def isValid(self, s: str) -> bool:
+#         li = []
+#         mapping = {'(': ')', '{': '}', '[': ']'}
+#         for i in s:
+#             if li and mapping.get(li[-1]) == i:
+                
+#                 li.pop()
+#             else:
+#                 li.append(i)
+#         return not li
