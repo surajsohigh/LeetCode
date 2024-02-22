@@ -12,7 +12,7 @@ while q>0:
     tot=tot+(r**siz)
     q=q//10
 
-    # print(r,tot)
+    # print(r,tot, )
 
 
 
