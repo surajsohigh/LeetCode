@@ -1,4 +1,5 @@
 class Solution:
+    # python 3
     def removeDuplicates(self, nums: List[int]) -> int:
         
         if not nums:
