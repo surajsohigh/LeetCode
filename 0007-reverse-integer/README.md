@@ -3,7 +3,7 @@
 <p><strong>Assume the environment does not allow you to store 64-bit integers (signed or unsigned).</strong></p>
 
 <p>&nbsp;</p>
-<p><strong class="example">Example 1:</strong></p>
+<p><strong class="example">Example 1</strong></p>
 
 <pre>
 <strong>Input:</strong> x = 123
