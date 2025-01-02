@@ -25,4 +25,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1827-invalid-tweets](https://github.com/surajsohigh/LeetCode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/surajsohigh/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 | [2087-confirmation-rate](https://github.com/surajsohigh/LeetCode/tree/master/2087-confirmation-rate) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/surajsohigh/LeetCode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/surajsohigh/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
