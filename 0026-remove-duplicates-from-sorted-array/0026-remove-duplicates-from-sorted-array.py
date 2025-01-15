@@ -1,23 +1,18 @@
 class Solution:
-    # python 3
     def removeDuplicates(self, nums: List[int]) -> int:
-        
+        start = 0
+        end = 0
+
         if not nums:
             return 0
-        
-        left=0
-        right=0
-        length = len(nums)
-        
-        while right < length:
-            if nums[left] != nums[right]:
-                left += 1
-                nums[left] = nums[right]
-                
-            right += 1
-            
-        left = left + 1
-        unique = len(nums[:left])
-        print(unique, nums[:left])
-            
-        return unique
+
+        while end < len(nums):
+            if nums[start] != nums[end]:
+                start += 1
+                nums[start] = nums[end]
+
+            end += 1
+        print(nums)
+
+        return start+1
+
