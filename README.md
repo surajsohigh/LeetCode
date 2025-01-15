@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/surajsohigh/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/surajsohigh/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/surajsohigh/LeetCode/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/surajsohigh/LeetCode/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/surajsohigh/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/surajsohigh/LeetCode/tree/master/0088-merge-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -51,4 +53,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/surajsohigh/LeetCode/tree/master/0066-plus-one) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/surajsohigh/LeetCode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
