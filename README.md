@@ -75,4 +75,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/surajsohigh/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/surajsohigh/LeetCode/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
