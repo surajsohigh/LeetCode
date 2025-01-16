@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/surajsohigh/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/surajsohigh/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/surajsohigh/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/surajsohigh/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/surajsohigh/LeetCode/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
@@ -70,4 +71,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/surajsohigh/LeetCode/tree/master/0169-majority-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/surajsohigh/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
