@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/surajsohigh/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/surajsohigh/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/surajsohigh/LeetCode/tree/master/0169-majority-element) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/surajsohigh/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/surajsohigh/LeetCode/tree/master/0169-majority-element) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/surajsohigh/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -86,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/surajsohigh/LeetCode/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/surajsohigh/LeetCode/tree/master/0058-length-of-last-word) |
 | [1894-merge-strings-alternately](https://github.com/surajsohigh/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/surajsohigh/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Sliding Window
 |  |
 | ------- |
