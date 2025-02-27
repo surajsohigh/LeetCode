@@ -3,17 +3,9 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        i=0
-        j=0
+        temp = 0
+        for i in range(len(nums)):
+            if nums[i] != 0:
+                nums[i], nums[temp] = nums[temp], nums[i]
+                temp += 1
         
-        while j < len(nums):
-            
-            if (nums[j] == 0):
-                j=j+1
-                
-            else: 
-                nums[i], nums[j] = nums[j], nums[i]
-                i=i+1
-                j=j+1
-            
-                
