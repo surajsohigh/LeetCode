@@ -3,8 +3,6 @@ class Solution:
         """
         Do not return anything, modify nums1 in-place instead.
         """
-        for i in range(n):
-            nums1[m+i] = nums2[i]
-        
-        return nums1.sort()
-        
+        for j in range(n):
+            nums1[m+j] = nums2[j]
+        nums1.sort()
