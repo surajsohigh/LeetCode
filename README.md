@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/surajsohigh/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/surajsohigh/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/surajsohigh/LeetCode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/surajsohigh/LeetCode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/surajsohigh/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/surajsohigh/LeetCode/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/surajsohigh/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/surajsohigh/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/surajsohigh/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/surajsohigh/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/surajsohigh/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/surajsohigh/LeetCode/tree/master/0283-move-zeroes) |
 | [1894-merge-strings-alternately](https://github.com/surajsohigh/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Binary Search
@@ -74,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0013-roman-to-integer](https://github.com/surajsohigh/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/surajsohigh/LeetCode/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/surajsohigh/LeetCode/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
