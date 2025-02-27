@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/surajsohigh/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/surajsohigh/LeetCode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/surajsohigh/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/surajsohigh/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/surajsohigh/LeetCode/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/surajsohigh/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/surajsohigh/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/surajsohigh/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/surajsohigh/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/surajsohigh/LeetCode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/surajsohigh/LeetCode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/surajsohigh/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/surajsohigh/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Two Pointers
@@ -74,18 +76,21 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0035-search-insert-position](https://github.com/surajsohigh/LeetCode/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/surajsohigh/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/surajsohigh/LeetCode/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/surajsohigh/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/surajsohigh/LeetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/surajsohigh/LeetCode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/surajsohigh/LeetCode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/surajsohigh/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/surajsohigh/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/surajsohigh/LeetCode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/surajsohigh/LeetCode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -128,4 +133,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0136-single-number](https://github.com/surajsohigh/LeetCode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/surajsohigh/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
